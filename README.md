@@ -4,8 +4,6 @@ An end-to-end Exploratory Data Analysis (EDA) project on hotel booking data to i
 
 Business Problem:
 
-Hotel businesses often face significant revenue loss due to high cancellation rates. Understanding the factors that lead to booking cancellations — such as pricing, customer demographics, seasonality, and location — is crucial for improving occupancy rates, optimizing pricing strategies, and reducing operational inefficiencies.
-
 This project aims to explore and analyze booking data to uncover patterns behind cancellations and provide actionable insights to hotel managers for improving customer retention and revenue generation.
 
 ---
