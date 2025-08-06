@@ -1,9 +1,11 @@
 # 🏨 Hotel Booking EDA & Insights
 
 An end-to-end Exploratory Data Analysis (EDA) project on hotel booking data to identify trends in cancellations, understand customer behavior, and generate business-friendly recommendations to reduce booking losses.
+
 Business Problem:
 
 Hotel businesses often face significant revenue loss due to high cancellation rates. Understanding the factors that lead to booking cancellations — such as pricing, customer demographics, seasonality, and location — is crucial for improving occupancy rates, optimizing pricing strategies, and reducing operational inefficiencies.
+
 This project aims to explore and analyze booking data to uncover patterns behind cancellations and provide actionable insights to hotel managers for improving customer retention and revenue generation.
 
 ---
@@ -100,7 +102,7 @@ This project helps hotel managers and analysts understand the key drivers of res
 ## 🙋‍♂️ Author
 
 **Amol Pakhare**  
-📧 Let's connect on [LinkedIn] - https://www.linkedin.com/amolpakhare  
+📧 Let's connect on [LinkedIn] - https://www.linkedin.com/in/pakhareamol  
 📁 View my work on [GitHub] - https://www.github.com/amolpakhare
 
 ---
